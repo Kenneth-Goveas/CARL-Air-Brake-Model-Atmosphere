@@ -1,0 +1,10 @@
+{
+  "step size": 1,
+  "gravitational acceleration": 9.80665,
+  "ideal gas constant": 8.31446,
+  "molar mass": 0.028965,
+  "sea level pressure": 101325,
+  "sea level temperature": 288,
+  "altitude": [11000, 20000, 32000, 48500, 52500, 60500, 80000, 90000, 100000],
+  "temperature": [217, 217, 228, 270, 270, 256, 190, 190, 202]
+}
